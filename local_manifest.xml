@@ -3,6 +3,8 @@
          
          <remote name="Fadri2610"
                  fetch="https://github.com/Fadri2610" />
+        <remote name="Fadri2610"
+                 fetch="https://gitlab.com/fabiflow102004" />
          <remote name="Project"
                  fetch="https://github.com" />
          
@@ -12,6 +14,7 @@
 
 <!-- Vendor Trees -->
 <project path="vendor/xiaomi/vayu" name="derpfest_vendor_xiaomi_vayu" remote="Fadri2610" revision="15-derp" />
+<project path="vendor/xiaomi/sm8150-common" name="crdroid_vendor_xiaomi_sm8150-common" remote="Fadri2610" revision="15.0" />
 
 <!-- Kernel -->
 <project path="kernel/xiaomi/vayu" name="crdroid_kernel_xiaomi_vayu" remote="Fadri2610" revision="15-crdroid" />
