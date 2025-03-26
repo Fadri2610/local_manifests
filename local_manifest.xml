@@ -12,7 +12,6 @@
 
 <!-- Vendor Trees -->
 <project path="vendor/xiaomi/vayu" name="derpfest_vendor_xiaomi_vayu" remote="Fadri2610" revision="15-derp" />
-#<project path="vendor/xiaomi/sm6150-common" name="android_vendor_xiaomi_sm6150-common" remote="Fadri2610" revision="15" />
 
 <!-- Kernel -->
 <project path="kernel/xiaomi/vayu" name="crdroid_kernel_xiaomi_vayu" remote="Fadri2610" revision="15-crdroid" />
